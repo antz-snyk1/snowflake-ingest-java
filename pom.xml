@@ -49,7 +49,7 @@
         <shadeBase>net.snowflake.ingest.internal</shadeBase>
         <jacoco.skip.instrument>true</jacoco.skip.instrument>
         <jacoco.version>0.8.5</jacoco.version>
-        <arrow.version>9.0.0</arrow.version>
+        <arrow.version>16.0.0</arrow.version>
         <hadoop.version>2.10.1</hadoop.version>
     </properties>
 
